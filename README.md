@@ -8,7 +8,11 @@ First, clone the repository to your local machine using the following commands:
 
 ```bash
 
-1. Install Dependencies
+1. Move to the project directory
+
+cd playlist_app/
+
+2. Install Dependencies
 
 npm init -y
 npm install
