@@ -10,6 +10,7 @@ First, clone the repository to your local machine using the following commands:
 
 1. Install Dependencies
 
+npm init -y
 npm install
 
 2. Install Playwright Browsers
